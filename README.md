@@ -7,7 +7,7 @@
 ### Languages and Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-F05032?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F05032?style=for-the-badge&logo=PHP&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 <p>
