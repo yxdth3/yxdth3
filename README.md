@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yxdth3
-- 👀 I’m interested in a analitics 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in a data analysis,  I like to be constantly learning and I do it effectively and constantly. 
+- 🌱 I’m currently learning about Digital Marketing, reinforcing languages ​​such as JavaScript and the use of Power BI.
+- 💞️ I’m looking to collaborate on in a job that tests my knowledge and gives me the ability to learn even more.
 
 
 ### Languages and Tools
