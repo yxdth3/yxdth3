@@ -8,7 +8,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/PHP-F05032?style=for-the-badge&logo=PHP&logoColor=white">
-  <img src="https://img.shields.io/badge/Phyton-F05032?style=for-the-badge&logo=Phyton&logoColor=white">
+  <a href="https://tiktok.com"><img src="https://img.shields.io/badge/Phyton-F05032?style=for-the-badge&logo=Phyton&logoColor=white"></a>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
